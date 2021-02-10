@@ -1,8 +1,5 @@
 ### Hello!
 
-<!--
-**lizyrineo/lizyrineo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
           <p>As a project manager I honed my skills as a solution seeker and team
           leader. I pride myself on bringing teams together with the vision of
           clients and management to connect all project elements in order to
